@@ -61,6 +61,6 @@ Planning Phase (No development yet)
 - Documentation
 
 ***i completed landing page successfully 
-step:5 here I used ChatGPT and goole ai 
-for better understanding and it helped a lot inthis process of learning 
+step:5 here I used ChatGPT and google ai 
+for better understanding and it helped a lot in this process of learning 
 
