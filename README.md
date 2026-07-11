@@ -1,4 +1,4 @@
- **AI-Based Traffic Management System
+80 **AI-Based Traffic Management System
 
 ** Description
 This project aims to reduce traffic congestion using Artificial Intelligence. The system analyzes real-time traffic data and automatically adjusts traffic signal timings to improve traffic flow.
