@@ -60,4 +60,7 @@ Planning Phase (No development yet)
 - Deployment
 - Documentation
 
+***i completed landing page successfully 
+step:5 here I used ChatGPT and goole ai 
+for better understanding and it helped a lot inthis process of learning 
 
