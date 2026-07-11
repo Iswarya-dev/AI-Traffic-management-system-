@@ -50,6 +50,7 @@ Planning Phase (No development yet)
 - Traffic Density Analysis
 - Smart Traffic Signal Control
 
+
 ### Phase 4: Advanced Features
 - Emergency Vehicle Detection
 - Traffic Reports
@@ -64,3 +65,6 @@ Planning Phase (No development yet)
 step:5 here I used ChatGPT and google ai 
 for better understanding and it helped a lot in this process of learning 
 
+step6:***LinkedIn Post
+
+https://www.linkedin.com/posts/iswarya-kambhampati-75b05237b_learninginpublic-buildinpublic-ai-activity-7481764739908378624-A7EF?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAF3NFrcBIIOWidnUhygNc6Q2QSuVSNqia5U&utm_campaign=copy_link
