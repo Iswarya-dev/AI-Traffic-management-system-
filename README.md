@@ -1,70 +1,70 @@
-80 **AI-Based Traffic Management System
+# Getting Started with Create React App
 
-** Description
-This project aims to reduce traffic congestion using Artificial Intelligence. The system analyzes real-time traffic data and automatically adjusts traffic signal timings to improve traffic flow.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-** Problem Statement
-Traffic congestion is caused by increasing vehicle numbers and fixed traffic signal timings. This leads to delays, fuel wastage, pollution, and slower emergency response.
+## Available Scripts
 
-**features
- AI Vehicle Detection
-- Real-time Traffic Monitoring
-- Smart Traffic Signal Control
-- Emergency Vehicle Priority
-- Traffic Reports
+In the project directory, you can run:
 
-**Tech Stack
-- Frontend: HTML, CSS, JavaScript
-  Backend: Python (Flask)
-- Database: MySQL
+### `npm start`
 
-**Status
-Planning Phase (No development yet)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-**Development Tasks
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Target Users
-- Traffic Police
-- Smart City Authorities
-- Municipal Corporations
-- Road Users
+### `npm test`
 
-## Development Tasks
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Phase 1: Project Setup
-- Create React Project
-- Initialize Git
-- Push to GitHub
+### `npm run build`
 
-### Phase 2: Landing Page
-- Navigation Bar
-- Hero Section
-- About Section
-- Features Section
-- Footer
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Phase 3: Core Features
-- Login Page
-- Dashboard
-- AI Vehicle Detection
-- Traffic Density Analysis
-- Smart Traffic Signal Control
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Phase 4: Advanced Features
-- Emergency Vehicle Detection
-- Traffic Reports
-- Admin Panel
+### `npm run eject`
 
-### Phase 5: Final
-- Testing
-- Deployment
-- Documentation
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-***i completed landing page successfully 
-step:5 here I used ChatGPT and google ai 
-for better understanding and it helped a lot in this process of learning 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-step6:***LinkedIn Post
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-https://www.linkedin.com/posts/iswarya-kambhampati-75b05237b_learninginpublic-buildinpublic-ai-activity-7481764739908378624-A7EF?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAF3NFrcBIIOWidnUhygNc6Q2QSuVSNqia5U&utm_campaign=copy_link
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
